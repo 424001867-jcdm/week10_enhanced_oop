@@ -1,0 +1,17 @@
+=============================================
+ PC16 Week 10: Enhanced OOP Hierarchy Test   
+=============================================
+
+--- Testing Inheritance & Polymorphism ---
+Processor [CPU]: AMD Ryzen 5 5600 | Cores: 6 | Clock: 3.7GHz | Price: PHP 6500.00
+Compliance Check [CPU]: Verified secure hardware virtualization & processing standards.
+
+Storage [SSD]: Kingston NV2 NVMe SSD | Capacity: 512GB | Price: PHP 3200.00
+Compliance Check [Storage]: Verified data encryption & secure media sanitization protocols.
+
+--- Testing Mixin Capability (Discountable) ---
+Accessory Item: Mechanical Keyboard | Original: PHP 1800.00 | Discounted (15%): PHP 1530.00
+
+=============================================
+         Enhanced OOP Execution Complete     
+=============================================
